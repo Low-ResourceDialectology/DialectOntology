@@ -1,0 +1,27 @@
+
+# Glottolog Data
+URL: https://glottolog.org
+Files: 
+	- languages_and_dialects_geo.csv
+	- languages.csv
+References:
+	- https://doi.org/10.5281/zenodo.596479
+Reference Note:
+	- Only released versions of the Glottolog data should be cited. These releases are archived with and available from ZENODO at https://doi.org/10.5281/zenodo.596479
+
+# Ethnologue Data
+URL: http://www.ethnologue.com
+Files: 
+	- CountryCodes.tab
+	- LanguageCodes.tab
+	- LanguageIndex.tab
+References:
+	- Ethnologue 25th edition, SIL International, 2022.
+	- www.ethnologue.com
+Reference Note:
+	- You are authorized to include the information in a product that you make available to the public (even on a commercial basis), provided that you:
+	- cite SIL International and this web site (www.ethnologue.com) as the source of the information,
+	- do not modify or extend the codes other than those set aside for local use (i.e. qaa to qtz), 
+	- do not redistribute the code tables for download, and
+	- use only the data in the tables and no other data posted on this site. Other information on this site should be accessed by supplying a link like the following (where abc is an ISO 639-3 code):
+	- http://www.ethnologue.com/language/abc
