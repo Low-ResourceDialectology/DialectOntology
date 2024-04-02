@@ -17,13 +17,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Low-ResourceDialectology/DialectMapping">
-    <img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/DialectMapping-OverviewDOnto.png" alt="Overview of Dialect Ontology as part of Dialect Mapping" width="500" height="175">
-    <!-- <img src="https://github.com/christianschuler8989/CRAMT-Slides/blob/main/public/title-banner.png" alt="Logo" width="200" height="200"> -->
+    <img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/DialectMapping-OverviewDOnto.png" alt="Overview of Dialect Ontology as part of Dialect Mapping" style="max-width: 90%;">
   </a>
-  <h3 align="center">CRAMT</h3>
+  <h3 align="center">Dialect Ontology</h3>
   
-  Cross-Lingual Resource Aggregation of Low-Resource Machine Translation and Metadata
-  (Under Construction (Moving and cleaning code from previous repository))
+  Based on a list of language varieties, all related varieties are identified and (if existing) corresponding information (such as ISO-codes and countries, in which the language is spoken) are aggregated.
+
+  Dialect Ontology is the first step towards an interactive dialect map as part of the <a href="https://github.com/Low-ResourceDialectology/DialectMapping">Dialect Mapping</a> project.
 </div>
 
 
