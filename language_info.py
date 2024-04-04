@@ -12,6 +12,9 @@ import sys
 git clone git@github.com:Low-ResourceDialectology/DialectOntology.git
 python3 -m venv venvDO
 
+→ Create a folder named after the language, such as "German"
+→ Create a file containing the variety names, such as "German", "Saxon", "Bavarian" (one each line if .txt)
+
 # Use
 cd DialectOntology
 source ./../venvDO/bin/activate
