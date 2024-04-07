@@ -28,10 +28,16 @@
 <!-- <img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDO.png" alt="Overview DO" style="max-width: 30%;"> -->
 
 <br />
-	<a href="https://github.com/Low-ResourceDialectology/DialectOntology"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDO.png" style="float:left; margin-right:10px;max-width:30%;"></a>
+	<a href="https://github.com/christianschuler8989/LiteratureAnalysis"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewLA.png" style="float:left;max-width:30%;"></a>
+	<a href="https://github.com/Low-ResourceDialectology/DialectOntology"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDO.png" style="float:left;max-width:30%;"></a>
 	<br />
+	<a href="https://github.com/Low-ResourceDialectology/DialectLocations"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDL.png" style="float:left;max-width:30%;"></a>
 	<a href="https://github.com/christianschuler8989/CRAMT"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewCRAMT.png" style="float:left;max-width:30%;"></a>
-	<a href="https://github.com/christianschuler8989/CRAMT"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDD.png" style="float:left;max-width:30%;"></a>
+	<a href="https://github.com/Low-ResourceDialectology/DialectData"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDD.png" style="float:left;max-width:30%;"></a>
+	<br />
+	<a href="https://github.com/Low-ResourceDialectology/DialectMapping"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDM.png" style="float:left;max-width:30%;"></a>
+	<a href="https://github.com/Low-ResourceDialectology/TextAsCorpusRep"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewMTACR.png" style="float:left;max-width:30%;"></a>
+	<a href="https://github.com/christianschuler8989/ChameleonMT"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewChameleonMT.png" style="float:left;max-width:30%;"></a>
 </div>
 
 
