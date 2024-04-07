@@ -24,7 +24,18 @@
   Based on a list of language varieties, all related varieties are identified and (if existing) corresponding information (such as ISO-codes and countries, in which the language is spoken) are aggregated.
 
   Dialect Ontology is the first step towards an interactive dialect map as part of the <a href="https://github.com/Low-ResourceDialectology/DialectMapping">Dialect Mapping</a> project.
+
+<!-- <img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDO.png" alt="Overview DO" style="max-width: 30%;"> -->
+
+<br />
+	<a href="https://github.com/Low-ResourceDialectology/DialectOntology"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDO.png" style="float:left; margin-right:10px;max-width:30%;"></a>
+	<br />
+	<a href="https://github.com/christianschuler8989/CRAMT"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewCRAMT.png" style="float:left;max-width:30%;"></a>
+	<a href="https://github.com/christianschuler8989/CRAMT"><img src="https://github.com/Low-ResourceDialectology/DialectOntology/blob/main/images/ResearchProjects-OverviewDD.png" style="float:left;max-width:30%;"></a>
 </div>
+
+
+
 
 
 
