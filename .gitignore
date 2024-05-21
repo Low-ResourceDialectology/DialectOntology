@@ -1,8 +1,0 @@
-/languages/*
-!/languages/German
-/languages/German/*
-!/languages/German/input_varieties.txt
-
-!/languages/Kurdish
-/languages/Kurdish/*
-!/languages/Kurdish/input_varieties.txt

@@ -1,0 +1,1600 @@
+{
+    "information": {
+        "projectName": "Kurdish Varieties Showcase",
+        "date": "05.04.2024",
+        "dialects": 413,
+        "dialects_with_info": 83
+    },
+    "dialects": {
+        "Central Kurdish": {
+            "languageInformation": {
+                "iso639": "ckb",
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "countries": "IQ;IR",
+                "glottocode": "cent1972"
+            }
+        },
+        "Sorani": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "sora1257"
+            }
+        },
+        "Soran\u00ee": {
+            "languageInformation": {}
+        },
+        "Mukriyani": {
+            "languageInformation": {}
+        },
+        "Mukriyan\u00ee": {
+            "languageInformation": {}
+        },
+        "Mukr\u00eeyan\u00ee": {
+            "languageInformation": {}
+        },
+        "Mukri": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "mukr1239"
+            }
+        },
+        "Mukr\u00ee": {
+            "languageInformation": {}
+        },
+        "Mahabad": {
+            "languageInformation": {
+                "latitude": "36.23",
+                "longitude": "44.37",
+                "glottocode": "maha1304"
+            }
+        },
+        "Mehabad": {
+            "languageInformation": {}
+        },
+        "Sine": {
+            "languageInformation": {}
+        },
+        "Sine'i": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "sine1239"
+            }
+        },
+        "Sine'\u00ee": {
+            "languageInformation": {}
+        },
+        "Siney\u00ee": {
+            "languageInformation": {}
+        },
+        "Sanandaji": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "sana1277"
+            }
+        },
+        "Sanandaj\u00ee": {
+            "languageInformation": {}
+        },
+        "Sanayi": {
+            "languageInformation": {}
+        },
+        "Sanay\u00ee": {
+            "languageInformation": {}
+        },
+        "Senayi": {
+            "languageInformation": {}
+        },
+        "Senay\u00ee": {
+            "languageInformation": {}
+        },
+        "Ardalani": {
+            "languageInformation": {}
+        },
+        "Ardalan\u00ee": {
+            "languageInformation": {}
+        },
+        "Erdelani": {
+            "languageInformation": {}
+        },
+        "Erdelan\u00ee": {
+            "languageInformation": {}
+        },
+        "Jafi": {
+            "languageInformation": {}
+        },
+        "Jaf\u00ee": {
+            "languageInformation": {}
+        },
+        "Jaffi": {
+            "languageInformation": {}
+        },
+        "Jaff\u00ee": {
+            "languageInformation": {}
+        },
+        "Cafi": {
+            "languageInformation": {}
+        },
+        "Caf\u00ee": {
+            "languageInformation": {}
+        },
+        "Southern Jafi": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "sout2641"
+            }
+        },
+        "Javanrud": {
+            "languageInformation": {}
+        },
+        "Warmawa": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "warm1239"
+            }
+        },
+        "Suleimani": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "sule1239"
+            }
+        },
+        "Suleiman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sule\u00eeman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sul\u00eaimani": {
+            "languageInformation": {}
+        },
+        "Sul\u00eaiman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sul\u00ea\u00eeman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sulaimani": {
+            "languageInformation": {}
+        },
+        "Sulaiman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sula\u00eeman\u00ee": {
+            "languageInformation": {}
+        },
+        "Silemani": {
+            "languageInformation": {}
+        },
+        "Sileman\u00ee": {
+            "languageInformation": {}
+        },
+        "S\u00eeleman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sil\u00eamani": {
+            "languageInformation": {}
+        },
+        "Sil\u00eaman\u00ee": {
+            "languageInformation": {}
+        },
+        "S\u00eel\u00eaman\u00ee": {
+            "languageInformation": {}
+        },
+        "Sulaymaniyah": {
+            "languageInformation": {}
+        },
+        "Babani": {
+            "languageInformation": {}
+        },
+        "Baban\u00ee": {
+            "languageInformation": {}
+        },
+        "Bingird": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "bing1247"
+            }
+        },
+        "Garmiyani": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "garm1241"
+            }
+        },
+        "Garmiyan\u00ee": {
+            "languageInformation": {}
+        },
+        "Germiyan\u00ee": {
+            "languageInformation": {}
+        },
+        "Germiyani": {
+            "languageInformation": {}
+        },
+        "Hewleri": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "hewl1238"
+            }
+        },
+        "Hewl\u00ear\u00ee": {
+            "languageInformation": {}
+        },
+        "Hewler\u00ee": {
+            "languageInformation": {}
+        },
+        "Erbil": {
+            "languageInformation": {}
+        },
+        "Hewl\u00ear": {
+            "languageInformation": {}
+        },
+        "Hewraman": {
+            "languageInformation": {}
+        },
+        "Khanaqin": {
+            "languageInformation": {}
+        },
+        "Pizhdar": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "pizh1238"
+            }
+        },
+        "Pijder\u00ee": {
+            "languageInformation": {}
+        },
+        "Pijderi": {
+            "languageInformation": {}
+        },
+        "Rewandiz": {
+            "languageInformation": {
+                "latitude": "35.6539",
+                "longitude": "45.8077",
+                "glottocode": "rewa1238"
+            }
+        },
+        "Arbili": {
+            "languageInformation": {}
+        },
+        "Kerkuki": {
+            "languageInformation": {}
+        },
+        "Kerkuk\u00ee": {
+            "languageInformation": {}
+        },
+        "Kerk\u00fbki": {
+            "languageInformation": {}
+        },
+        "Kerk\u00fbk\u00ee": {
+            "languageInformation": {}
+        },
+        "Xoshnaw": {
+            "languageInformation": {}
+        },
+        "Kamyaran": {
+            "languageInformation": {}
+        },
+        "K\u0101my\u0101r\u0101n": {
+            "languageInformation": {}
+        },
+        "Diwandara Kurdish": {
+            "languageInformation": {}
+        },
+        "Diw\u0101ndara Kurdish": {
+            "languageInformation": {}
+        },
+        "Fayzullabagi": {
+            "languageInformation": {}
+        },
+        "Fayzullabag\u00ee": {
+            "languageInformation": {}
+        },
+        "Fayzull\u0101bagi": {
+            "languageInformation": {}
+        },
+        "Tilakuwi": {
+            "languageInformation": {}
+        },
+        "Tilakuw\u00ee": {
+            "languageInformation": {}
+        },
+        "T\u00eelakuw\u00ee": {
+            "languageInformation": {}
+        },
+        "Tilak\u016bwi": {
+            "languageInformation": {}
+        },
+        "Tilak\u016bw\u00ee": {
+            "languageInformation": {}
+        },
+        "T\u00eelak\u016bw\u00ee": {
+            "languageInformation": {}
+        },
+        "Sarshiwi": {
+            "languageInformation": {}
+        },
+        "Sarshiw\u00ee": {
+            "languageInformation": {}
+        },
+        "Sarsh\u00eew\u00ee": {
+            "languageInformation": {}
+        },
+        "Laylakhi": {
+            "languageInformation": {}
+        },
+        "Laylakh\u00ee": {
+            "languageInformation": {}
+        },
+        "Layl\u0101kh\u012b": {
+            "languageInformation": {}
+        },
+        "Kurdali": {
+            "languageInformation": {}
+        },
+        "Kurdal\u00ee": {
+            "languageInformation": {}
+        },
+        "Palai": {
+            "languageInformation": {}
+        },
+        "Pala\u00ee": {
+            "languageInformation": {}
+        },
+        "Kordali": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "kord1245"
+            }
+        },
+        "Kordal\u00ee": {
+            "languageInformation": {}
+        },
+        "Kushnawi": {
+            "languageInformation": {}
+        },
+        "Kushnaw\u00ee": {
+            "languageInformation": {}
+        },
+        "Judeo-Kurdish": {
+            "languageInformation": {}
+        },
+        "Northern Kurdish": {
+            "languageInformation": {
+                "iso639": "kmr",
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "countries": "AM;AZ;IQ;IR;JO;KW;SY;TM;TR",
+                "glottocode": "nort2641"
+            }
+        },
+        "Kurmanji": {
+            "languageInformation": {}
+        },
+        "Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurmanci": {
+            "languageInformation": {}
+        },
+        "Kurmanc\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurman\u00e7i": {
+            "languageInformation": {}
+        },
+        "Kurman\u00e7\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurmandschi": {
+            "languageInformation": {}
+        },
+        "Kurmandsch\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurmanschi": {
+            "languageInformation": {}
+        },
+        "Kurmansch\u00ee": {
+            "languageInformation": {}
+        },
+        "Northern Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "nort3328"
+            }
+        },
+        "Northern Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Bayezidi": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "baye1238"
+            }
+        },
+        "Bayezid\u00ee": {
+            "languageInformation": {}
+        },
+        "Bayez\u00eed\u00ee": {
+            "languageInformation": {}
+        },
+        "Bitlis Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "bitl1234"
+            }
+        },
+        "Bitlis Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Erevan Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "erev1241"
+            }
+        },
+        "Erevan Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Mush Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "mush1241"
+            }
+        },
+        "Mush Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Van Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "vank1234"
+            }
+        },
+        "Van Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Southeastern Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "sout3317"
+            }
+        },
+        "Southeastern Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Akre": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "akre1239"
+            }
+        },
+        "Amadiye Kurdish": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "amad1240"
+            }
+        },
+        "Barwari Jor": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "barw1242"
+            }
+        },
+        "Gulli": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "gull1240"
+            }
+        },
+        "Gull\u00ee": {
+            "languageInformation": {}
+        },
+        "Hakkari": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "heka1238"
+            }
+        },
+        "Hakkar\u00ee": {
+            "languageInformation": {}
+        },
+        "Mhallami": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "mhal1238"
+            }
+        },
+        "Mhallam\u00ee": {
+            "languageInformation": {}
+        },
+        "Sheikhan Dohuk": {
+            "languageInformation": {}
+        },
+        "Shemdinani": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "shem1238"
+            }
+        },
+        "Shemdinan\u00ee": {
+            "languageInformation": {}
+        },
+        "Surchi": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "surc1239"
+            }
+        },
+        "Surch\u00ee": {
+            "languageInformation": {}
+        },
+        "Zakho Kurdish": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "zakh1242"
+            }
+        },
+        "Southern Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "sout3316"
+            }
+        },
+        "Southern Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Ashiti": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "ashi1242"
+            }
+        },
+        "Ashit\u00ee": {
+            "languageInformation": {}
+        },
+        "Ash\u00eet\u00ee": {
+            "languageInformation": {}
+        },
+        "A\u015fiti": {
+            "languageInformation": {}
+        },
+        "A\u015fit\u00ee": {
+            "languageInformation": {}
+        },
+        "A\u015f\u00eet\u00ee": {
+            "languageInformation": {}
+        },
+        "Boti": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "boti1239"
+            }
+        },
+        "Bot\u00ee": {
+            "languageInformation": {}
+        },
+        "Botani": {
+            "languageInformation": {}
+        },
+        "Botan\u00ee": {
+            "languageInformation": {}
+        },
+        "B\u00f3t\u00e1n\u00ee": {
+            "languageInformation": {}
+        },
+        "Western Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "west2933"
+            }
+        },
+        "Western Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Northwest Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "nort3329"
+            }
+        },
+        "Northwest Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Elbistan Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "mara1374"
+            }
+        },
+        "Elbistan Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Sivas": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "siva1240"
+            }
+        },
+        "Southwest Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "sout3318"
+            }
+        },
+        "Southwest Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Aleppo Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "alep1242"
+            }
+        },
+        "Aleppo Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Rojavayi": {
+            "languageInformation": {}
+        },
+        "Rojavay\u00ee": {
+            "languageInformation": {}
+        },
+        "Kobani": {
+            "languageInformation": {}
+        },
+        "Koban\u00ee": {
+            "languageInformation": {}
+        },
+        "Kobanki": {
+            "languageInformation": {}
+        },
+        "Kobank\u00ee": {
+            "languageInformation": {}
+        },
+        "Kobane": {
+            "languageInformation": {}
+        },
+        "Koban\u00ea": {
+            "languageInformation": {}
+        },
+        "Shexi": {
+            "languageInformation": {}
+        },
+        "Shex\u00ee": {
+            "languageInformation": {}
+        },
+        "Surujki": {
+            "languageInformation": {}
+        },
+        "Surujk\u00ee": {
+            "languageInformation": {}
+        },
+        "Afrini": {
+            "languageInformation": {}
+        },
+        "Afrin\u00ee": {
+            "languageInformation": {}
+        },
+        "Afr\u00een\u00ee": {
+            "languageInformation": {}
+        },
+        "Qamisloki": {
+            "languageInformation": {}
+        },
+        "Qamislok\u00ee": {
+            "languageInformation": {}
+        },
+        "Sherbi": {
+            "languageInformation": {}
+        },
+        "Sherb\u00ee": {
+            "languageInformation": {}
+        },
+        "Amudki": {
+            "languageInformation": {}
+        },
+        "Amudk\u00ee": {
+            "languageInformation": {}
+        },
+        "Deriki": {
+            "languageInformation": {}
+        },
+        "Derik\u00ee": {
+            "languageInformation": {}
+        },
+        "Der\u00eek\u00ee": {
+            "languageInformation": {}
+        },
+        "Khorasani Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "khor1267"
+            }
+        },
+        "Khorasani Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Urfa Kurmanji": {
+            "languageInformation": {
+                "latitude": "37.0",
+                "longitude": "43.0",
+                "glottocode": "urfa1239"
+            }
+        },
+        "Urfa Kurmanj\u00ee": {
+            "languageInformation": {}
+        },
+        "Mihemedi": {
+            "languageInformation": {}
+        },
+        "Mihemed\u00ee": {
+            "languageInformation": {}
+        },
+        "Marashi": {
+            "languageInformation": {
+                "latitude": "32.0",
+                "longitude": "35.0",
+                "glottocode": "mara1375"
+            }
+        },
+        "Marash\u00ee": {
+            "languageInformation": {}
+        },
+        "Bahdini": {
+            "languageInformation": {}
+        },
+        "Bahdin\u00ee": {
+            "languageInformation": {}
+        },
+        "Bahd\u00een\u00ee": {
+            "languageInformation": {}
+        },
+        "Badinani": {
+            "languageInformation": {}
+        },
+        "Badinan\u00ee": {
+            "languageInformation": {}
+        },
+        "Bad\u00eenan\u00ee": {
+            "languageInformation": {}
+        },
+        "Kochgiri": {
+            "languageInformation": {}
+        },
+        "Kochgir\u00ee": {
+            "languageInformation": {}
+        },
+        "Kochg\u00eer\u00ee": {
+            "languageInformation": {}
+        },
+        "Sarhadi": {
+            "languageInformation": {}
+        },
+        "Sarhad\u00ee": {
+            "languageInformation": {}
+        },
+        "Tori": {
+            "languageInformation": {}
+        },
+        "Tor\u00ee": {
+            "languageInformation": {}
+        },
+        "Bekrani": {
+            "languageInformation": {}
+        },
+        "Bekran\u00ee": {
+            "languageInformation": {}
+        },
+        "Birjendi": {
+            "languageInformation": {}
+        },
+        "Birjend\u00ee": {
+            "languageInformation": {}
+        },
+        "B\u00eerjend\u00ee": {
+            "languageInformation": {}
+        },
+        "Ceziri": {
+            "languageInformation": {}
+        },
+        "Cezir\u00ee": {
+            "languageInformation": {}
+        },
+        "Cez\u00eer\u00ee": {
+            "languageInformation": {}
+        },
+        "Jiwanshiri": {
+            "languageInformation": {}
+        },
+        "Jiwanshir\u00ee": {
+            "languageInformation": {}
+        },
+        "Jiwansh\u00eer\u00ee": {
+            "languageInformation": {}
+        },
+        "J\u00eewansh\u00eer\u00ee": {
+            "languageInformation": {}
+        },
+        "Qocani": {
+            "languageInformation": {}
+        },
+        "Qocan\u00ee": {
+            "languageInformation": {}
+        },
+        "Senjari": {
+            "languageInformation": {}
+        },
+        "Senjar\u00ee": {
+            "languageInformation": {}
+        },
+        "Judikani": {
+            "languageInformation": {}
+        },
+        "Judikan\u00ee": {
+            "languageInformation": {}
+        },
+        "Jud\u00eekan\u00ee": {
+            "languageInformation": {}
+        },
+        "Yuneki": {
+            "languageInformation": {}
+        },
+        "Yunek\u00ee": {
+            "languageInformation": {}
+        },
+        "Southern Kurdish": {
+            "languageInformation": {
+                "iso639": "sdh",
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "countries": "IQ;IR",
+                "glottocode": "sout2640"
+            }
+        },
+        "Ilami": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "feyl1238"
+            }
+        },
+        "Ilam\u00ee": {
+            "languageInformation": {}
+        },
+        "\u00celami": {
+            "languageInformation": {}
+        },
+        "\u00celam\u00ee": {
+            "languageInformation": {}
+        },
+        "Badre'i": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "bayr1238"
+            }
+        },
+        "Badre'\u00ee": {
+            "languageInformation": {}
+        },
+        "Garrusi": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "garr1245"
+            }
+        },
+        "Garrus\u00ee": {
+            "languageInformation": {}
+        },
+        "Malekshahi": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "male1280"
+            }
+        },
+        "Malekshah\u00ee": {
+            "languageInformation": {}
+        },
+        "Laki Southern Kurdish": {
+            "languageInformation": {}
+        },
+        "Kermanshahi": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "kerm1244"
+            }
+        },
+        "Kermanshah\u00ee": {
+            "languageInformation": {}
+        },
+        "Kermansani": {
+            "languageInformation": {}
+        },
+        "Kermansan\u00ee": {
+            "languageInformation": {}
+        },
+        "Kerman\u015fani": {
+            "languageInformation": {}
+        },
+        "Kerman\u015fan\u00ee": {
+            "languageInformation": {}
+        },
+        "Peripheral Kermanshahic": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "peri1266"
+            }
+        },
+        "Kalhori-Sanjabi-Zangane": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "kalh1241"
+            }
+        },
+        "Kalhori": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "kalh1240"
+            }
+        },
+        "Kalhor\u00ee": {
+            "languageInformation": {}
+        },
+        "Kelhori": {
+            "languageInformation": {}
+        },
+        "Kelhor\u00ee": {
+            "languageInformation": {}
+        },
+        "Sanjabi": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "sanj1274"
+            }
+        },
+        "Sanjab\u00ee": {
+            "languageInformation": {}
+        },
+        "Zangane": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "zang1256"
+            }
+        },
+        "Kolyai": {
+            "languageInformation": {
+                "latitude": "32.8977",
+                "longitude": "46.5976",
+                "glottocode": "koly1245"
+            }
+        },
+        "Kolya\u00ee": {
+            "languageInformation": {}
+        },
+        "Luri": {
+            "languageInformation": {
+                "iso639": "ldd",
+                "latitude": "10.059",
+                "longitude": "9.59745",
+                "countries": "NG",
+                "glottocode": "luri1256"
+            }
+        },
+        "Lur\u00ee": {
+            "languageInformation": {}
+        },
+        "Bayray": {
+            "languageInformation": {}
+        },
+        "Kurdi Xwarin": {
+            "languageInformation": {}
+        },
+        "Kurd\u00ee Xwar\u00een": {
+            "languageInformation": {}
+        },
+        "Pehlewani": {
+            "languageInformation": {}
+        },
+        "Pehlewan\u00ee": {
+            "languageInformation": {}
+        },
+        "Laki": {
+            "languageInformation": {
+                "iso639": "lki",
+                "latitude": "34.0103",
+                "longitude": "47.9398",
+                "countries": "IR",
+                "glottocode": "laki1244"
+            }
+        },
+        "Lak\u00ee": {
+            "languageInformation": {}
+        },
+        "Leki": {
+            "languageInformation": {}
+        },
+        "Lek\u00ee": {
+            "languageInformation": {}
+        },
+        "Gorani": {
+            "languageInformation": {
+                "latitude": "36.00005",
+                "longitude": "43.780474999999996"
+            }
+        },
+        "Goran\u00ee": {
+            "languageInformation": {}
+        },
+        "Gurani": {
+            "languageInformation": {
+                "iso639": "hac",
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "countries": "IQ;IR",
+                "glottocode": "gura1251"
+            }
+        },
+        "Guran\u00ee": {
+            "languageInformation": {}
+        },
+        "Hawraman-I Luhon": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "hawr1242"
+            }
+        },
+        "Hawraman-I Taxt": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "hawr1243"
+            }
+        },
+        "Kakai": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "kaka1262"
+            }
+        },
+        "Kaka\u00ee": {
+            "languageInformation": {}
+        },
+        "Kakeyi": {
+            "languageInformation": {}
+        },
+        "Kakey\u00ee": {
+            "languageInformation": {}
+        },
+        "Nuclear Gurani": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "nucl1271"
+            }
+        },
+        "Nuclear Guran\u00ee": {
+            "languageInformation": {}
+        },
+        "Gawhara": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "gawh1238"
+            }
+        },
+        "Kandula": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "kand1290"
+            }
+        },
+        "Zardayana": {
+            "languageInformation": {
+                "latitude": "36.8377",
+                "longitude": "44.4956",
+                "glottocode": "zard1234"
+            }
+        },
+        "Shabak-Bajalani": {
+            "languageInformation": {
+                "latitude": "35.162400000000005",
+                "longitude": "43.065349999999995"
+            }
+        },
+        "Shabak-Bajalan\u00ee": {
+            "languageInformation": {}
+        },
+        "Bajelani": {
+            "languageInformation": {
+                "iso639": "bjm",
+                "latitude": "33.9498",
+                "longitude": "42.9867",
+                "countries": "IQ;IR",
+                "glottocode": "baje1238"
+            }
+        },
+        "Bajelan\u00ee": {
+            "languageInformation": {}
+        },
+        "Shabaki": {
+            "languageInformation": {
+                "iso639": "sdb",
+                "latitude": "36.375",
+                "longitude": "43.144",
+                "countries": "IQ",
+                "glottocode": "shab1251"
+            }
+        },
+        "Shabak\u00ee": {
+            "languageInformation": {}
+        },
+        "Chabak": {
+            "languageInformation": {
+                "latitude": "36.375",
+                "longitude": "43.144",
+                "glottocode": "chab1240"
+            }
+        },
+        "Sarli": {
+            "languageInformation": {
+                "iso639": "sdf",
+                "latitude": "36.021",
+                "longitude": "43.644",
+                "countries": "IQ",
+                "glottocode": "sarl1241"
+            }
+        },
+        "Sarl\u00ee": {
+            "languageInformation": {}
+        },
+        "Zaza": {
+            "languageInformation": {
+                "latitude": "38.88915",
+                "longitude": "39.5196",
+                "countries": "TR"
+            }
+        },
+        "Zazaki": {
+            "languageInformation": {}
+        },
+        "Zazak\u00ee": {
+            "languageInformation": {}
+        },
+        "Dimli": {
+            "languageInformation": {
+                "iso639": "diq",
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "countries": "TR",
+                "glottocode": "diml1238"
+            }
+        },
+        "Diml\u00ee": {
+            "languageInformation": {}
+        },
+        "D\u00eeml\u00ee": {
+            "languageInformation": {}
+        },
+        "Dumbuli": {
+            "languageInformation": {
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "glottocode": "dumb1240"
+            }
+        },
+        "Dumbul\u00ee": {
+            "languageInformation": {}
+        },
+        "Hazzu": {
+            "languageInformation": {
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "glottocode": "hazz1238"
+            }
+        },
+        "Kori": {
+            "languageInformation": {
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "glottocode": "kori1257"
+            }
+        },
+        "Kor\u00ee": {
+            "languageInformation": {}
+        },
+        "Motki": {
+            "languageInformation": {
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "glottocode": "motk1236"
+            }
+        },
+        "Motk\u00ee": {
+            "languageInformation": {}
+        },
+        "Sivereki": {
+            "languageInformation": {
+                "latitude": "38.6147",
+                "longitude": "39.6388",
+                "glottocode": "sive1238"
+            }
+        },
+        "Siverek\u00ee": {
+            "languageInformation": {}
+        },
+        "S\u00eeverek\u00ee": {
+            "languageInformation": {}
+        },
+        "Kirmanijki": {
+            "languageInformation": {}
+        },
+        "Kirmanijk\u00ee": {
+            "languageInformation": {}
+        },
+        "Tunceli": {
+            "languageInformation": {
+                "latitude": "39.1636",
+                "longitude": "39.4004",
+                "glottocode": "tunc1238"
+            }
+        },
+        "Tuncel\u00ee": {
+            "languageInformation": {}
+        },
+        "Varto": {
+            "languageInformation": {
+                "latitude": "39.1636",
+                "longitude": "39.4004",
+                "glottocode": "vart1238"
+            }
+        },
+        "Dersim": {
+            "languageInformation": {}
+        },
+        "Zengene": {
+            "languageInformation": {}
+        },
+        "Xerzi": {
+            "languageInformation": {}
+        },
+        "Xerz\u00ee": {
+            "languageInformation": {}
+        },
+        "Batman": {
+            "languageInformation": {}
+        },
+        "Xarput": {
+            "languageInformation": {}
+        },
+        "Sarbajeri": {
+            "languageInformation": {}
+        },
+        "Sarbajer\u00ee": {
+            "languageInformation": {}
+        },
+        "Sarbaj\u00eari": {
+            "languageInformation": {}
+        },
+        "Sarbaj\u00ear\u00ee": {
+            "languageInformation": {}
+        },
+        "\u015earbajeri": {
+            "languageInformation": {}
+        },
+        "\u015earbajer\u00ee": {
+            "languageInformation": {}
+        },
+        "\u015earbaj\u00ear\u00ee": {
+            "languageInformation": {}
+        },
+        "Feyli": {
+            "languageInformation": {}
+        },
+        "Feyl\u00ee": {
+            "languageInformation": {}
+        },
+        "Xaneqini": {
+            "languageInformation": {}
+        },
+        "Xaneqin\u00ee": {
+            "languageInformation": {}
+        },
+        "Xaneq\u00een\u00ee": {
+            "languageInformation": {}
+        },
+        "Lori": {
+            "languageInformation": {
+                "latitude": "5.965145",
+                "longitude": "30.1699"
+            }
+        },
+        "Lor\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurd\u00ee": {
+            "languageInformation": {}
+        },
+        "Kurdiya jor\u00een": {
+            "languageInformation": {}
+        },
+        "Eastern Kurmanji": {
+            "languageInformation": {}
+        },
+        "Kirmanc\u00ee": {
+            "languageInformation": {}
+        },
+        "Sine\u2019i": {
+            "languageInformation": {}
+        },
+        "Kurdish Kurmanji": {
+            "languageInformation": {}
+        },
+        "Shabak": {
+            "languageInformation": {}
+        },
+        "Dimil\u00ee": {
+            "languageInformation": {}
+        },
+        "Southern Zaza": {
+            "languageInformation": {}
+        },
+        "Avromani": {
+            "languageInformation": {}
+        },
+        "Pehlewan\u00ed": {
+            "languageInformation": {}
+        },
+        "Hazo": {
+            "languageInformation": {}
+        },
+        "Kordi Kormanji": {
+            "languageInformation": {}
+        },
+        "Hawramani": {
+            "languageInformation": {}
+        },
+        "Kermanshani": {
+            "languageInformation": {}
+        },
+        "Gawrajuyi": {
+            "languageInformation": {}
+        },
+        "Maleksh ay": {
+            "languageInformation": {}
+        },
+        "Bajalani": {
+            "languageInformation": {}
+        },
+        "Bejwan": {
+            "languageInformation": {}
+        },
+        "Kakkai": {
+            "languageInformation": {}
+        },
+        "Zazaki, Southern": {
+            "languageInformation": {}
+        },
+        "Eastern Zazaki": {
+            "languageInformation": {}
+        },
+        "Maleksh ahi": {
+            "languageInformation": {}
+        },
+        "L\u00far": {
+            "languageInformation": {}
+        },
+        "Ourami": {
+            "languageInformation": {}
+        },
+        "Kurdish, Southern": {
+            "languageInformation": {}
+        },
+        "Macho": {
+            "languageInformation": {}
+        },
+        "Hawrami": {
+            "languageInformation": {}
+        },
+        "Awroman": {
+            "languageInformation": {}
+        },
+        "Alaki": {
+            "languageInformation": {}
+        },
+        "Macho-Zwani": {
+            "languageInformation": {}
+        },
+        "Kurdy": {
+            "languageInformation": {}
+        },
+        "Zengana": {
+            "languageInformation": {}
+        },
+        "Kurmanji Kurdish": {
+            "languageInformation": {}
+        },
+        "Central Zazaki": {
+            "languageInformation": {}
+        },
+        "Kurdish, Central": {
+            "languageInformation": {}
+        },
+        "Kermanc\u00ee": {
+            "languageInformation": {}
+        },
+        "Ardelani": {
+            "languageInformation": {}
+        },
+        "Kurdish, Northern": {
+            "languageInformation": {}
+        },
+        "Kurd\u00ee-Kurmanc\u00ee": {
+            "languageInformation": {}
+        },
+        "Amadiye": {
+            "languageInformation": {}
+        },
+        "Khorasani": {
+            "languageInformation": {}
+        },
+        "Korkora": {
+            "languageInformation": {}
+        },
+        "Mokri": {
+            "languageInformation": {}
+        },
+        "Ezdiki": {
+            "languageInformation": {}
+        },
+        "Pijdari": {
+            "languageInformation": {}
+        },
+        "Kurdi": {
+            "languageInformation": {}
+        },
+        "Sarliya": {
+            "languageInformation": {}
+        },
+        "Red Kurmanji": {
+            "languageInformation": {}
+        },
+        "Kordi": {
+            "languageInformation": {}
+        },
+        "Hawraman i Luhon": {
+            "languageInformation": {}
+        },
+        "Sineyi": {
+            "languageInformation": {}
+        },
+        "Dumbeli": {
+            "languageInformation": {}
+        },
+        "Wawa": {
+            "languageInformation": {
+                "iso639": "www",
+                "latitude": "6.68974",
+                "longitude": "11.7802",
+                "countries": "CM;NG",
+                "glottocode": "wawa1246"
+            }
+        },
+        "Chichamachu": {
+            "languageInformation": {}
+        },
+        "Siliv\u00ee": {
+            "languageInformation": {}
+        },
+        "Sina\u2019i": {
+            "languageInformation": {}
+        },
+        "Sheikhan": {
+            "languageInformation": {}
+        },
+        "Zazaca": {
+            "languageInformation": {}
+        },
+        "Kirmanciya Jori": {
+            "languageInformation": {}
+        },
+        "Bewyani": {
+            "languageInformation": {}
+        },
+        "Bijari": {
+            "languageInformation": {}
+        },
+        "Hekari": {
+            "languageInformation": {}
+        },
+        "Hourami": {
+            "languageInformation": {}
+        },
+        "Awromani": {
+            "languageInformation": {}
+        },
+        "Zakho": {
+            "languageInformation": {}
+        },
+        "Howrami": {
+            "languageInformation": {}
+        },
+        "Bad\u00een\u00ee": {
+            "languageInformation": {}
+        },
+        "Shikak\u00ee": {
+            "languageInformation": {}
+        },
+        "Moti": {
+            "languageInformation": {}
+        },
+        "Hawraman i Taxt": {
+            "languageInformation": {}
+        },
+        "Behd\u00een\u00ee": {
+            "languageInformation": {}
+        },
+        "Khorassani Kurmanji": {
+            "languageInformation": {}
+        },
+        "Hewrami": {
+            "languageInformation": {}
+        },
+        "Kurdmanc\u00ee": {
+            "languageInformation": {}
+        },
+        "Bajoran": {
+            "languageInformation": {}
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "deu": {
+        "German, Standard": {
+            "AR": "L",
+            "AT": "L",
+            "AU": "L",
+            "BE": "L",
+            "BG": "L",
+            "BY": "L",
+            "CA": "L",
+            "CH": "L",
+            "CL": "L",
+            "CM": "L",
+            "CY": "L",
+            "CZ": "L",
+            "DE": "L",
+            "DK": "L",
+            "EC": "L",
+            "EE": "L",
+            "ES": "L",
+            "FI": "L",
+            "FR": "L",
+            "GB": "L",
+            "GR": "L",
+            "HR": "L",
+            "HU": "L",
+            "IE": "L",
+            "IT": "L",
+            "KG": "L",
+            "KZ": "L",
+            "LI": "L",
+            "LT": "L",
+            "LU": "L",
+            "LV": "L",
+            "MC": "L",
+            "MT": "L",
+            "NA": "L",
+            "NL": "L",
+            "PL": "L",
+            "PT": "L",
+            "PY": "L",
+            "RO": "L",
+            "RS": "L",
+            "RU": "L",
+            "SE": "L",
+            "SI": "L",
+            "SK": "L",
+            "US": "L",
+            "UY": "L"
+        },
+        "Alem\u00e1n": {
+            "AR": "LA",
+            "CL": "LA",
+            "EC": "LA",
+            "ES": "LA",
+            "PY": "LA",
+            "UY": "LA"
+        },
+        "Deutsch": {
+            "AR": "LA",
+            "AT": "LA",
+            "AU": "LA",
+            "BE": "LA",
+            "BG": "LA",
+            "CA": "LA",
+            "CH": "LA",
+            "CL": "LA",
+            "CY": "LA",
+            "CZ": "LA",
+            "DE": "LA",
+            "DK": "LA",
+            "EC": "LA",
+            "EE": "LA",
+            "ES": "LA",
+            "FI": "LA",
+            "FR": "LA",
+            "GB": "LA",
+            "GR": "LA",
+            "HR": "LA",
+            "HU": "LA",
+            "IE": "LA",
+            "IT": "LA",
+            "KG": "LA",
+            "KZ": "LA",
+            "LI": "LA",
+            "LT": "LA",
+            "LU": "LA",
+            "LV": "LA",
+            "NA": "LA",
+            "NL": "LA",
+            "PL": "LA",
+            "PT": "LA",
+            "PY": "LA",
+            "RO": "LA",
+            "RU": "LA",
+            "SE": "LA",
+            "SI": "LA",
+            "SK": "LA",
+            "UY": "LA"
+        },
+        "K\u00e4rntnerisch": {
+            "AT": "D"
+        },
+        "Allemand": {
+            "BE": "LA",
+            "CA": "LA",
+            "CH": "LA",
+            "FR": "LA",
+            "LU": "LA"
+        },
+        "Duits": {
+            "BE": "LA"
+        },
+        "Tedesco": {
+            "CH": "LA",
+            "IT": "LA"
+        },
+        "Tudestg": {
+            "CH": "LA"
+        },
+        "N\u011bmec": {
+            "CZ": "LA"
+        },
+        "Tysk": {
+            "DK": "LA"
+        },
+        "Njema\u010dki": {
+            "HR": "LA"
+        },
+        "N\u00e9met": {
+            "HU": "LA"
+        },
+        "Nemetskiy": {
+            "KG": "LA",
+            "KZ": "LA"
+        },
+        "D\u00e4itsch": {
+            "LU": "LA"
+        },
+        "Niemiec": {
+            "PL": "LA"
+        },
+        "German\u0103": {
+            "RO": "LA"
+        },
+        "Nema\u010dki": {
+            "RS": "LA"
+        },
+        "Nemec": {
+            "SK": "LA"
+        },
+        "Texas German": {
+            "US": "D"
+        },
+        "Texasdeutsch": {
+            "US": "DA"
+        }
+    }
+}

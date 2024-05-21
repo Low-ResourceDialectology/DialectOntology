@@ -1,0 +1,491 @@
+{
+    "diq": {
+        "Dumbuli": {
+            "TR": "D"
+        },
+        "Eastern Zazaki": {
+            "TR": "D"
+        },
+        "Hazzu": {
+            "TR": "D"
+        },
+        "Kori": {
+            "TR": "D"
+        },
+        "Motki": {
+            "TR": "D"
+        },
+        "Sivereki": {
+            "TR": "D"
+        },
+        "Central Zazaki": {
+            "TR": "DA"
+        },
+        "Dumbeli": {
+            "TR": "DA"
+        },
+        "Hazo": {
+            "TR": "DA"
+        },
+        "Moti": {
+            "TR": "DA"
+        },
+        "Zazaki, Southern": {
+            "TR": "L"
+        },
+        "Dimil\u00ee": {
+            "TR": "LA"
+        },
+        "Diml\u00ee": {
+            "TR": "LA"
+        },
+        "Southern Zaza": {
+            "TR": "LA"
+        },
+        "Zaza": {
+            "TR": "LA"
+        },
+        "Zazaca": {
+            "TR": "LA"
+        },
+        "Zazak\u00ee": {
+            "TR": "LA"
+        }
+    },
+    "sdf": {
+        "Sarli": {
+            "IQ": "L"
+        },
+        "Sarliya": {
+            "IQ": "LA"
+        }
+    },
+    "lki": {
+        "Laki": {
+            "IR": "L"
+        },
+        "Alaki": {
+            "IR": "LA"
+        },
+        "Leki": {
+            "IR": "LA"
+        }
+    },
+    "hac": {
+        "Kakai": {
+            "IQ": "D"
+        },
+        "Zengana": {
+            "IQ": "D"
+        },
+        "Kakkai": {
+            "IQ": "DA"
+        },
+        "Macho": {
+            "IQ": "L"
+        },
+        "Gorani": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Gurani": {
+            "IQ": "LA",
+            "IR": "L"
+        },
+        "Hawramani": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Hawrami": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Hewrami": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Macho-Zwani": {
+            "IQ": "LA"
+        },
+        "Bewyani": {
+            "IR": "D"
+        },
+        "Gawrajuyi": {
+            "IR": "D"
+        },
+        "Hawraman i Luhon": {
+            "IR": "D"
+        },
+        "Hawraman i Taxt": {
+            "IR": "D"
+        },
+        "Kandula": {
+            "IR": "D"
+        },
+        "Zardayana": {
+            "IR": "D"
+        },
+        "Avromani": {
+            "IR": "LA"
+        },
+        "Awroman": {
+            "IR": "LA"
+        },
+        "Awromani": {
+            "IR": "LA"
+        },
+        "Hourami": {
+            "IR": "LA"
+        },
+        "Howrami": {
+            "IR": "LA"
+        },
+        "Ourami": {
+            "IR": "LA"
+        }
+    },
+    "bjm": {
+        "Bajelani": {
+            "IQ": "L"
+        },
+        "Bajalani": {
+            "IQ": "LA"
+        },
+        "Bajoran": {
+            "IQ": "LA"
+        },
+        "Bejwan": {
+            "IQ": "LA"
+        },
+        "Chichamachu": {
+            "IQ": "LA"
+        },
+        "Gurani": {
+            "IQ": "LA"
+        }
+    },
+    "sdb": {
+        "Shabak": {
+            "IQ": "L"
+        }
+    },
+    "ldd": {
+        "Luri": {
+            "NG": "L"
+        },
+        "L\u00far": {
+            "NG": "LA"
+        }
+    },
+    "ckb": {
+        "Bingird": {
+            "IQ": "D"
+        },
+        "Garmiyani": {
+            "IQ": "D"
+        },
+        "Hewleri": {
+            "IQ": "D"
+        },
+        "Jafi": {
+            "IQ": "D",
+            "IR": "D"
+        },
+        "Kerkuki": {
+            "IQ": "D"
+        },
+        "Pizhdar": {
+            "IQ": "D"
+        },
+        "Rewandiz": {
+            "IQ": "D"
+        },
+        "Suleimani": {
+            "IQ": "D"
+        },
+        "Warmawa": {
+            "IQ": "D"
+        },
+        "Xoshnaw": {
+            "IQ": "D"
+        },
+        "Arbili": {
+            "IQ": "DA"
+        },
+        "Silemani": {
+            "IQ": "DA"
+        },
+        "Kurdish, Central": {
+            "IQ": "L",
+            "IR": "L"
+        },
+        "Kurdi": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Sorani": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Ardelani": {
+            "IR": "D"
+        },
+        "Mukriyani": {
+            "IR": "D"
+        },
+        "Pijdari": {
+            "IR": "D"
+        },
+        "Kordi": {
+            "IR": "LA"
+        },
+        "Mokri": {
+            "IR": "DA"
+        },
+        "Mukri": {
+            "IR": "DA"
+        },
+        "Sanandaji": {
+            "IR": "DA"
+        },
+        "Sina\u2019i": {
+            "IR": "DA"
+        },
+        "Sine\u2019i": {
+            "IR": "LA"
+        },
+        "Sineyi": {
+            "IR": "DA"
+        },
+        "Korkora": {
+            "IR": "LA"
+        },
+        "Kurdy": {
+            "IR": "LA"
+        },
+        "Wawa": {
+            "IR": "LA"
+        }
+    },
+    "zza": {},
+    "kmr": {
+        "Kurdish, Northern": {
+            "AM": "L",
+            "AZ": "L",
+            "GE": "L",
+            "IQ": "L",
+            "IR": "L",
+            "LB": "L",
+            "SY": "L",
+            "TM": "L",
+            "TR": "L"
+        },
+        "Ezdiki": {
+            "AM": "LA",
+            "GE": "LA",
+            "IQ": "LA",
+            "SY": "LA",
+            "TR": "LA"
+        },
+        "Kurmanji": {
+            "AM": "LA",
+            "AZ": "LA",
+            "GE": "LA",
+            "IQ": "LA",
+            "IR": "LA",
+            "SY": "LA",
+            "TM": "LA"
+        },
+        "Kurd\u00ee": {
+            "AZ": "LA",
+            "GE": "LA",
+            "SY": "LA",
+            "TR": "LA"
+        },
+        "Kurmanc\u00ee": {
+            "AZ": "LA",
+            "GE": "LA",
+            "IR": "LA",
+            "SY": "LA",
+            "TM": "LA",
+            "TR": "LA"
+        },
+        "Red Kurmanji": {
+            "AZ": "LA"
+        },
+        "Akre": {
+            "IQ": "D"
+        },
+        "Amadiye": {
+            "IQ": "D"
+        },
+        "Barwari Jor": {
+            "IQ": "D"
+        },
+        "Gulli": {
+            "IQ": "D"
+        },
+        "Sheikhan": {
+            "IQ": "D"
+        },
+        "Surchi": {
+            "IQ": "D"
+        },
+        "Zakho": {
+            "IQ": "D"
+        },
+        "Badinani": {
+            "IQ": "LA"
+        },
+        "Bad\u00een\u00ee": {
+            "IQ": "LA"
+        },
+        "Bahdini": {
+            "IQ": "LA"
+        },
+        "Behd\u00een\u00ee": {
+            "IQ": "LA"
+        },
+        "Kirmanciya Jori": {
+            "IQ": "LA"
+        },
+        "Khorassani Kurmanji": {
+            "IR": "D"
+        },
+        "Northern Kurdish": {
+            "IR": "D"
+        },
+        "Eastern Kurmanji": {
+            "IR": "LA"
+        },
+        "Kordi": {
+            "IR": "LA"
+        },
+        "Kordi Kormanji": {
+            "IR": "LA"
+        },
+        "Kurdi": {
+            "IR": "LA"
+        },
+        "Khorasani": {
+            "TM": "LA"
+        },
+        "Khorasani Kurmanji": {
+            "TM": "LA"
+        },
+        "Ashiti": {
+            "TR": "D"
+        },
+        "Bayezidi": {
+            "TR": "D"
+        },
+        "Boti": {
+            "TR": "D"
+        },
+        "Hekari": {
+            "TR": "D"
+        },
+        "Marashi": {
+            "TR": "D"
+        },
+        "Mihemed\u00ee": {
+            "TR": "D"
+        },
+        "Shemdinani": {
+            "TR": "D"
+        },
+        "Shikak\u00ee": {
+            "TR": "D"
+        },
+        "Siliv\u00ee": {
+            "TR": "D"
+        },
+        "Botani": {
+            "TR": "DA"
+        },
+        "Kermanc\u00ee": {
+            "TR": "LA"
+        },
+        "Kirmanc\u00ee": {
+            "TR": "LA"
+        },
+        "Kurdish Kurmanji": {
+            "TR": "LA"
+        },
+        "Kurdiya jor\u00een": {
+            "TR": "LA"
+        },
+        "Kurdmanc\u00ee": {
+            "TR": "LA"
+        },
+        "Kurd\u00ee-Kurmanc\u00ee": {
+            "TR": "LA"
+        },
+        "Kurmanji Kurdish": {
+            "TR": "LA"
+        },
+        "Kurmanj\u00ee": {
+            "TR": "LA"
+        }
+    },
+    "sdh": {
+        "Bayray": {
+            "IQ": "D",
+            "IR": "D"
+        },
+        "Kalhori": {
+            "IQ": "D",
+            "IR": "D"
+        },
+        "Kordali": {
+            "IQ": "D",
+            "IR": "D"
+        },
+        "Maleksh ahi": {
+            "IQ": "D"
+        },
+        "Sanjabi": {
+            "IQ": "D",
+            "IR": "D"
+        },
+        "Maleksh ay": {
+            "IQ": "DA",
+            "IR": "DA"
+        },
+        "Kurdish, Southern": {
+            "IQ": "L",
+            "IR": "L"
+        },
+        "Kurd\u00ee Xwar\u00een": {
+            "IQ": "LA",
+            "IR": "LA"
+        },
+        "Garrusi": {
+            "IR": "D"
+        },
+        "Kermanshahi": {
+            "IR": "D"
+        },
+        "Kolyai": {
+            "IR": "D"
+        },
+        "Luri": {
+            "IR": "D"
+        },
+        "Malekshahi": {
+            "IR": "D"
+        },
+        "Bijari": {
+            "IR": "DA"
+        },
+        "Kermanshani": {
+            "IR": "DA"
+        },
+        "Lori": {
+            "IR": "DA"
+        },
+        "Pehlewan\u00ed": {
+            "IR": "LA"
+        }
+    }
+}

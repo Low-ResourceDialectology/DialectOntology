@@ -1,0 +1,85 @@
+{
+    "information": {
+        "projectName": "Kurdish Varieties Showcase",
+        "date": "05.04.2024",
+        "dialects": 23,
+        "dialects_with_info": 1
+    },
+    "dialects": {
+        "German": {
+            "languageInformation": {
+                "iso639": "deu",
+                "latitude": "48.649",
+                "longitude": "12.4676",
+                "countries": "AT;BE;CH;CZ;DE;DK;FR;HU;IT;LI;LU;NL;PL;RO;SI;SK",
+                "glottocode": "stan1295"
+            }
+        },
+        "Bavarian ": {
+            "languageInformation": {}
+        },
+        "Saxon": {
+            "languageInformation": {}
+        },
+        "Nemetskiy": {
+            "languageInformation": {}
+        },
+        "K\u00e4rntnerisch": {
+            "languageInformation": {}
+        },
+        "N\u011bmec": {
+            "languageInformation": {}
+        },
+        "Tysk": {
+            "languageInformation": {}
+        },
+        "German, Standard": {
+            "languageInformation": {}
+        },
+        "Texasdeutsch": {
+            "languageInformation": {}
+        },
+        "Deutsch": {
+            "languageInformation": {}
+        },
+        "Niemiec": {
+            "languageInformation": {}
+        },
+        "Alem\u00e1n": {
+            "languageInformation": {}
+        },
+        "D\u00e4itsch": {
+            "languageInformation": {}
+        },
+        "Duits": {
+            "languageInformation": {}
+        },
+        "German\u0103": {
+            "languageInformation": {}
+        },
+        "Nema\u010dki": {
+            "languageInformation": {}
+        },
+        "N\u00e9met": {
+            "languageInformation": {}
+        },
+        "Njema\u010dki": {
+            "languageInformation": {}
+        },
+        "Nemec": {
+            "languageInformation": {}
+        },
+        "Tudestg": {
+            "languageInformation": {}
+        },
+        "Tedesco": {
+            "languageInformation": {}
+        },
+        "Texas German": {
+            "languageInformation": {}
+        },
+        "Allemand": {
+            "languageInformation": {}
+        }
+    }
+}

@@ -1,0 +1,856 @@
+{
+    "projectName":"Kurdish Varieties",
+    "dialects": {
+        "Central Kurdish": {
+            "nameOrthographies": [
+                "Central Kurdish",
+                "Sorani",
+                "Soranî"
+            ]
+        },
+        "Mukriyani": {
+            "nameOrthographies": [
+                "Mukriyani",
+                "Mukriyanî",
+                "Mukrîyanî",
+                "Mukri",
+                "Mukrî",
+                "Mahabad",
+                "Mehabad"
+            ]
+        },
+        "Sine": {
+            "nameOrthographies": [
+                "Sine",
+                "Sine'i",
+                "Sine'î",
+                "Sineyî",
+                "Sanandaji",
+                "Sanandajî",
+                "Sanayi",
+                "Sanayî",
+                "Senayi",
+                "Senayî",
+                "Ardalani",
+                "Ardalanî",
+                "Erdelani",
+                "Erdelanî"
+            ]
+        },
+        "Southern Jafi": {
+            "nameOrthographies": [
+                "Jafi",
+                "Jafî",
+                "Jaffi",
+                "Jaffî",
+                "Cafi",
+                "Cafî",
+                "Southern Jafi",
+                "Javanrud"
+            ]
+        },
+        "Warmawa": {
+            "nameOrthographies": [
+                "Warmawa"
+            ]
+        },
+        "Sorani": {
+            "nameOrthographies": [
+                "Sorani",
+                "Soranî"
+            ]
+        },
+        "Suleimani": {
+            "nameOrthographies": [
+                "Suleimani",
+                "Suleimanî",
+                "Suleîmanî",
+                "Sulêimani",
+                "Sulêimanî",
+                "Sulêîmanî",
+                "Sulaimani",
+                "Sulaimanî",
+                "Sulaîmanî",
+                "Silemani",
+                "Silemanî",
+                "Sîlemanî",
+                "Silêmani",
+                "Silêmanî",
+                "Sîlêmanî",
+                "Sulaymaniyah",
+                "Babani",
+                "Babanî"
+            ]
+        },
+        "Bingird": {
+            "nameOrthographies": [
+                "Bingird"
+            ]
+        },
+        "Garmiyani": {
+            "nameOrthographies": [
+                "Garmiyani",
+                "Garmiyanî",
+                "Germiyanî",
+                "Germiyani"
+            ]
+        },
+        "Hewleri": {
+            "nameOrthographies": [
+                "Hewleri",
+                "Hewlêrî",
+                "Hewlerî",
+                "Erbil",
+                "Hewlêr"
+            ]
+        },
+        "Hewraman": {
+            "nameOrthographies": [
+                "Hewraman"
+            ]
+        },
+        "Khanaqin": {
+            "nameOrthographies": [
+                "Khanaqin"
+            ]
+        },
+        "Pizhdar": {
+            "nameOrthographies": [
+                "Pizhdar",
+                "Pijderî",
+                "Pijderi"
+            ]
+        },
+        "Rewandiz": {
+            "nameOrthographies": [
+                "Rewandiz"
+            ]
+        },
+        "Arbili": {
+            "nameOrthographies": [
+                "Arbili"
+            ]
+        },
+        "Kerkuki": {
+            "nameOrthographies": [
+                "Kerkuki",
+                "Kerkukî",
+                "Kerkûki",
+                "Kerkûkî"
+            ]
+        },
+        "Xoshnaw": {
+            "nameOrthographies": [
+                "Xoshnaw"
+            ]
+        },
+        "Kamyaran": {
+            "nameOrthographies": [
+                "Kamyaran",
+                "Kāmyārān"
+            ]
+        },
+        "Diwandara Kurdish": {
+            "nameOrthographies": [
+                "Diwandara Kurdish",
+                "Diwāndara Kurdish"
+            ]
+        },
+        "Fayzullabagi": {
+            "nameOrthographies": [
+                "Fayzullabagi",
+                "Fayzullabagî",
+                "Fayzullābagi"
+            ]
+        },
+        "Tilakuwi": {
+            "nameOrthographies": [
+                "Tilakuwi",
+                "Tilakuwî",
+                "Tîlakuwî",
+                "Tilakūwi",
+                "Tilakūwî",
+                "Tîlakūwî"
+            ]
+        },
+        "Sarshiwi": {
+            "nameOrthographies": [
+                "Sarshiwi",
+                "Sarshiwî",
+                "Sarshîwî"
+            ]
+        },
+        "Laylakhi": {
+            "nameOrthographies": [
+                "Laylakhi",
+                "Laylakhî",
+                "Laylākhī"
+            ]
+        },
+        "Kurdali": {
+            "nameOrthographies": [
+                "Kurdali",
+                "Kurdalî",
+                "Palai",
+                "Palaî",
+                "Kordali",
+                "Kordalî"
+            ]
+        },
+        "Kushnawi": {
+            "nameOrthographies": [
+                "Kushnawi",
+                "Kushnawî"
+            ]
+        },
+        "Judeo-Kurdish": {
+            "nameOrthographies": [
+                "Judeo-Kurdish"
+            ]
+        },
+        "Northern Kurdish": {
+            "nameOrthographies": [
+                "Northern Kurdish",
+                "Kurmanji",
+                "Kurmanjî",
+                "Kurmanci",
+                "Kurmancî",
+                "Kurmançi",
+                "Kurmançî",
+                "Kurmandschi",
+                "Kurmandschî",
+                "Kurmanschi",
+                "Kurmanschî"
+            ]
+        },
+        "Northern Kurmanji": {
+            "nameOrthographies": [
+                "Northern Kurmanji",
+                "Northern Kurmanjî"
+            ]
+        },
+        "Bayezidi": {
+            "nameOrthographies": [
+                "Bayezidi",
+                "Bayezidî",
+                "Bayezîdî"
+            ]
+        },
+        "Bitlis Kurmanji": {
+            "nameOrthographies": [
+                "Bitlis Kurmanji",
+                "Bitlis Kurmanjî"
+            ]
+        },
+        "Erevan Kurmanji": {
+            "nameOrthographies": [
+                "Erevan Kurmanji",
+                "Erevan Kurmanjî"
+            ]
+        },
+        "Mush Kurmanji": {
+            "nameOrthographies": [
+                "Mush Kurmanji",
+                "Mush Kurmanjî"
+            ]
+        },
+        "Van Kurmanji": {
+            "nameOrthographies": [
+                "Van Kurmanji",
+                "Van Kurmanjî"
+            ]
+        },
+        "Southeastern Kurmanji": {
+            "nameOrthographies": [
+                "Southeastern Kurmanji",
+                "Southeastern Kurmanjî"
+            ]
+        },
+        "Akre": {
+            "nameOrthographies": [
+                "Akre"
+            ]
+        },
+        "Amadiye Kurdish": {
+            "nameOrthographies": [
+                "Amadiye Kurdish"
+            ]
+        },
+        "Barwari Jor": {
+            "nameOrthographies": [
+                "Barwari Jor"
+            ]
+        },
+        "Gulli": {
+            "nameOrthographies": [
+                "Gulli",
+                "Gullî"
+            ]
+        },
+        "Hakkari": {
+            "nameOrthographies": [
+                "Hakkari",
+                "Hakkarî"
+            ]
+        },
+        "Mhallami": {
+            "nameOrthographies": [
+                "Mhallami",
+                "Mhallamî"
+            ]
+        },
+        "Sheikhan Dohuk": {
+            "nameOrthographies": [
+                "Sheikhan Dohuk"
+            ]
+        },
+        "Shemdinani": {
+            "nameOrthographies": [
+                "Shemdinani",
+                "Shemdinanî"
+            ]
+        },
+        "Surchi": {
+            "nameOrthographies": [
+                "Surchi",
+                "Surchî"
+            ]
+        },
+        "Zakho Kurdish": {
+            "nameOrthographies": [
+                "Zakho Kurdish"
+            ]
+        },
+        "Southern Kurmanji": {
+            "nameOrthographies": [
+                "Southern Kurmanji",
+                "Southern Kurmanjî"
+            ]
+        },
+        "Ashiti": {
+            "nameOrthographies": [
+                "Ashiti",
+                "Ashitî",
+                "Ashîtî",
+                "Aşiti",
+                "Aşitî",
+                "Aşîtî"
+            ]
+        },
+        "Boti": {
+            "nameOrthographies": [
+                "Boti",
+                "Botî",
+                "Botani",
+                "Botanî",
+                "Bótánî"
+            ]
+        },
+        "Western Kurmanji": {
+            "nameOrthographies": [
+                "Western Kurmanji",
+                "Western Kurmanjî"
+            ]
+        },
+        "Northwest Kurmanji": {
+            "nameOrthographies": [
+                "Northwest Kurmanji",
+                "Northwest Kurmanjî"
+            ]
+        },
+        "Elbistan Kurmanji": {
+            "nameOrthographies": [
+                "Elbistan Kurmanji",
+                "Elbistan Kurmanjî"
+            ]
+        },
+        "Sivas": {
+            "nameOrthographies": [
+                "Sivas"
+            ]
+        },
+        "Southwest Kurmanji": {
+            "nameOrthographies": [
+                "Southwest Kurmanji",
+                "Southwest Kurmanjî"
+            ]
+        },
+        "Aleppo Kurmanji": {
+            "nameOrthographies": [
+                "Aleppo Kurmanji",
+                "Aleppo Kurmanjî"
+            ]
+        },
+        "Rojavayi": {
+            "nameOrthographies": [
+                "Rojavayi",
+                "Rojavayî"
+            ]
+        },
+        "Kobani": {
+            "nameOrthographies": [
+                "Kobani",
+                "Kobanî",
+                "Kobanki",
+                "Kobankî",
+                "Kobane",
+                "Kobanê"
+            ]
+        },
+        "Shexi": {
+            "nameOrthographies": [
+                "Shexi",
+                "Shexî"
+            ]
+        },
+        "Surujki": {
+            "nameOrthographies": [
+                "Surujki",
+                "Surujkî"
+            ]
+        },
+        "Afrini": {
+            "nameOrthographies": [
+                "Afrini",
+                "Afrinî",
+                "Afrînî"
+            ]
+        },
+        "Qamisloki": {
+            "nameOrthographies": [
+                "Qamisloki",
+                "Qamislokî"
+            ]
+        },
+        "Sherbi": {
+            "nameOrthographies": [
+                "Sherbi",
+                "Sherbî"
+            ]
+        },
+        "Amudki": {
+            "nameOrthographies": [
+                "Amudki",
+                "Amudkî"
+            ]
+        },
+        "Deriki": {
+            "nameOrthographies": [
+                "Deriki",
+                "Derikî",
+                "Derîkî"
+            ]
+        },
+        "Khorasani Kurmanji": {
+            "nameOrthographies": [
+                "Khorasani Kurmanji",
+                "Khorasani Kurmanjî"
+            ]
+        },
+        "Urfa Kurmanji": {
+            "nameOrthographies": [
+                "Urfa Kurmanji",
+                "Urfa Kurmanjî"
+            ]
+        },
+        "Mihemedi": {
+            "nameOrthographies": [
+                "Mihemedi",
+                "Mihemedî"
+            ]
+        },
+        "Marashi": {
+            "nameOrthographies": [
+                "Marashi",
+                "Marashî"
+            ]
+        },
+        "Bahdini": {
+            "nameOrthographies": [
+                "Bahdini",
+                "Bahdinî",
+                "Bahdînî",
+                "Badinani",
+                "Badinanî",
+                "Badînanî"
+            ]
+        },
+        "Kochgiri": {
+            "nameOrthographies": [
+                "Kochgiri",
+                "Kochgirî",
+                "Kochgîrî"
+            ]
+        },
+        "Sarhadi": {
+            "nameOrthographies": [
+                "Sarhadi",
+                "Sarhadî"
+            ]
+        },
+        "Tori": {
+            "nameOrthographies": [
+                "Tori",
+                "Torî"
+            ]
+        },
+        "Bekrani": {
+            "nameOrthographies": [
+                "Bekrani",
+                "Bekranî"
+            ]
+        },
+        "Birjendi": {
+            "nameOrthographies": [
+                "Birjendi",
+                "Birjendî",
+                "Bîrjendî"
+            ]
+        },
+        "Ceziri": {
+            "nameOrthographies": [
+                "Ceziri",
+                "Cezirî",
+                "Cezîrî"
+            ]
+        },
+        "Jiwanshiri": {
+            "nameOrthographies": [
+                "Jiwanshiri",
+                "Jiwanshirî",
+                "Jiwanshîrî",
+                "Jîwanshîrî"
+            ]
+        },
+        "Qocani": {
+            "nameOrthographies": [
+                "Qocani",
+                "Qocanî"
+            ]
+        },
+        "Senjari": {
+            "nameOrthographies": [
+                "Senjari",
+                "Senjarî"
+            ]
+        },
+        "Judikani": {
+            "nameOrthographies": [
+                "Judikani",
+                "Judikanî",
+                "Judîkanî"
+            ]
+        },
+        "Yuneki": {
+            "nameOrthographies": [
+                "Yuneki",
+                "Yunekî"
+            ]
+        },
+        "Southern Kurdish": {
+            "nameOrthographies": [
+                "Southern Kurdish"
+            ]
+        },
+        "Ilami": {
+            "nameOrthographies": [
+                "Ilami",
+                "Ilamî",
+                "Îlami",
+                "Îlamî"
+            ]
+        },
+        "Badre'i": {
+            "nameOrthographies": [
+                "Badre'i",
+                "Badre'î"
+            ]
+        },
+        "Garrusi": {
+            "nameOrthographies": [
+                "Garrusi",
+                "Garrusî"
+            ]
+        },
+        "Malekshahi": {
+            "nameOrthographies": [
+                "Malekshahi",
+                "Malekshahî"
+            ]
+        },
+        "Laki Southern Kurdish": {
+            "nameOrthographies": [
+                "Laki Southern Kurdish"
+            ]
+        },
+        "Kermanshahi": {
+            "nameOrthographies": [
+                "Kermanshahi",
+                "Kermanshahî",
+                "Kermansani",
+                "Kermansanî",
+                "Kermanşani",
+                "Kermanşanî"
+            ]
+        },
+        "Peripheral Kermanshahic": {
+            "nameOrthographies": [
+                "Peripheral Kermanshahic"
+            ]
+        },
+        "Kalhori-Sanjabi-Zangane": {
+            "nameOrthographies": [
+                "Kalhori-Sanjabi-Zangane"
+            ]
+        },
+        "Kalhori": {
+            "nameOrthographies": [
+                "Kalhori",
+                "Kalhorî",
+                "Kelhori",
+                "Kelhorî"
+            ]
+        },
+        "Sanjabi": {
+            "nameOrthographies": [
+                "Sanjabi",
+                "Sanjabî"
+            ]
+        },
+        "Zangane": {
+            "nameOrthographies": [
+                "Zangane"
+            ]
+        },
+        "Kolyai": {
+            "nameOrthographies": [
+                "Kolyai",
+                "Kolyaî"
+            ]
+        },
+        "Luri": {
+            "nameOrthographies": [
+                "Luri",
+                "Lurî"
+            ]
+        },
+        "Bayray": {
+            "nameOrthographies": [
+                "Bayray"
+            ]
+        },
+        "Kurdi Xwarin": {
+            "nameOrthographies": [
+                "Kurdi Xwarin",
+                "Kurdî Xwarîn"
+            ]
+        },
+        "Pehlewani": {
+            "nameOrthographies": [
+                "Pehlewani",
+                "Pehlewanî"
+            ]
+        },
+        "Laki": {
+            "nameOrthographies": [
+                "Laki",
+                "Lakî",
+                "Leki",
+                "Lekî"
+            ]
+        },
+        "Gorani": {
+            "nameOrthographies": [
+                "Gorani",
+                "Goranî"
+            ]
+        },
+        "Gurani": {
+            "nameOrthographies": [
+                "Gurani",
+                "Guranî"
+            ]
+        },
+        "Hawraman-I Luhon": {
+            "nameOrthographies": [
+                "Hawraman-I Luhon"
+            ]
+        },
+        "Hawraman-I Taxt": {
+            "nameOrthographies": [
+                "Hawraman-I Taxt"
+            ]
+        },
+        "Kakai": {
+            "nameOrthographies": [
+                "Kakai",
+                "Kakaî",
+                "Kakeyi",
+                "Kakeyî"
+            ]
+        },
+        "Nuclear Gurani": {
+            "nameOrthographies": [
+                "Nuclear Gurani",
+                "Nuclear Guranî"
+            ]
+        },
+        "Gawhara": {
+            "nameOrthographies": [
+                "Gawhara"
+            ]
+        },
+        "Kandula": {
+            "nameOrthographies": [
+                "Kandula"
+            ]
+        },
+        "Zardayana": {
+            "nameOrthographies": [
+                "Zardayana"
+            ]
+        },
+        "Shabak-Bajalani": {
+            "nameOrthographies": [
+                "Shabak-Bajalani",
+                "Shabak-Bajalanî"
+            ]
+        },
+        "Bajelani": {
+            "nameOrthographies": [
+                "Bajelani",
+                "Bajelanî"
+            ]
+        },
+        "Shabaki": {
+            "nameOrthographies": [
+                "Shabaki",
+                "Shabakî"
+            ]
+        },
+        "Chabak": {
+            "nameOrthographies": [
+                "Chabak"
+            ]
+        },
+        "Sarli": {
+            "nameOrthographies": [
+                "Sarli",
+                "Sarlî"
+            ]
+        },
+        "Zaza": {
+            "nameOrthographies": [
+                "Zaza",
+                "Zazaki",
+                "Zazakî"
+            ]
+        },
+        "Dimli": {
+            "nameOrthographies": [
+                "Dimli",
+                "Dimlî",
+                "Dîmlî"
+            ]
+        },
+        "Dumbuli": {
+            "nameOrthographies": [
+                "Dumbuli",
+                "Dumbulî"
+            ]
+        },
+        "Hazzu": {
+            "nameOrthographies": [
+                "Hazzu"
+            ]
+        },
+        "Kori": {
+            "nameOrthographies": [
+                "Kori",
+                "Korî"
+            ]
+        },
+        "Motki": {
+            "nameOrthographies": [
+                "Motki",
+                "Motkî"
+            ]
+        },
+        "Sivereki": {
+            "nameOrthographies": [
+                "Sivereki",
+                "Siverekî",
+                "Sîverekî"
+            ]
+        },
+        "Kirmanijki": {
+            "nameOrthographies": [
+                "Kirmanijki",
+                "Kirmanijkî"
+            ]
+        },
+        "Tunceli": {
+            "nameOrthographies": [
+                "Tunceli",
+                "Tuncelî"
+            ]
+        },
+        "Varto": {
+            "nameOrthographies": [
+                "Varto"
+            ]
+        },
+        "Dersim": {
+            "nameOrthographies": [
+                "Dersim"
+            ]
+        },
+        "Zengene": {
+            "nameOrthographies": [
+                "Zengene"
+            ]
+        },
+        "Xerzi": {
+            "nameOrthographies": [
+                "Xerzi",
+                "Xerzî",
+                "Batman"
+            ]
+        },
+        "Xarput": {
+            "nameOrthographies": [
+                "Xarput"
+            ]
+        },
+        "Şarbajêrî": {
+            "nameOrthographies": [
+                "Sarbajeri",
+                "Sarbajerî",
+                "Sarbajêri",
+                "Sarbajêrî",
+                "Şarbajeri",
+                "Şarbajerî",
+                "Şarbajêrî"
+            ]
+        },
+        "Feyli": {
+            "nameOrthographies": [
+                "Feyli",
+                "Feylî"
+            ]
+        },
+        "Xaneqini": {
+            "nameOrthographies": [
+                "Xaneqini",
+                "Xaneqinî",
+                "Xaneqînî"
+            ]
+        },
+        "Lori": {
+            "nameOrthographies": [
+                "Lori",
+                "Lorî"
+            ]
+        }
+    }
+}

@@ -1,0 +1,413 @@
+Central Kurdish
+Sorani
+Soranî
+Mukriyani
+Mukriyanî
+Mukrîyanî
+Mukri
+Mukrî
+Mahabad
+Mehabad
+Sine
+Sine'i
+Sine'î
+Sineyî
+Sanandaji
+Sanandajî
+Sanayi
+Sanayî
+Senayi
+Senayî
+Ardalani
+Ardalanî
+Erdelani
+Erdelanî
+Jafi
+Jafî
+Jaffi
+Jaffî
+Cafi
+Cafî
+Southern Jafi
+Javanrud
+Warmawa
+Suleimani
+Suleimanî
+Suleîmanî
+Sulêimani
+Sulêimanî
+Sulêîmanî
+Sulaimani
+Sulaimanî
+Sulaîmanî
+Silemani
+Silemanî
+Sîlemanî
+Silêmani
+Silêmanî
+Sîlêmanî
+Sulaymaniyah
+Babani
+Babanî
+Bingird
+Garmiyani
+Garmiyanî
+Germiyanî
+Germiyani
+Hewleri
+Hewlêrî
+Hewlerî
+Erbil
+Hewlêr
+Hewraman
+Khanaqin
+Pizhdar
+Pijderî
+Pijderi
+Rewandiz
+Arbili
+Kerkuki
+Kerkukî
+Kerkûki
+Kerkûkî
+Xoshnaw
+Kamyaran
+Kāmyārān
+Diwandara Kurdish
+Diwāndara Kurdish
+Fayzullabagi
+Fayzullabagî
+Fayzullābagi
+Tilakuwi
+Tilakuwî
+Tîlakuwî
+Tilakūwi
+Tilakūwî
+Tîlakūwî
+Sarshiwi
+Sarshiwî
+Sarshîwî
+Laylakhi
+Laylakhî
+Laylākhī
+Kurdali
+Kurdalî
+Palai
+Palaî
+Kordali
+Kordalî
+Kushnawi
+Kushnawî
+Judeo-Kurdish
+Northern Kurdish
+Kurmanji
+Kurmanjî
+Kurmanci
+Kurmancî
+Kurmançi
+Kurmançî
+Kurmandschi
+Kurmandschî
+Kurmanschi
+Kurmanschî
+Northern Kurmanji
+Northern Kurmanjî
+Bayezidi
+Bayezidî
+Bayezîdî
+Bitlis Kurmanji
+Bitlis Kurmanjî
+Erevan Kurmanji
+Erevan Kurmanjî
+Mush Kurmanji
+Mush Kurmanjî
+Van Kurmanji
+Van Kurmanjî
+Southeastern Kurmanji
+Southeastern Kurmanjî
+Akre
+Amadiye Kurdish
+Barwari Jor
+Gulli
+Gullî
+Hakkari
+Hakkarî
+Mhallami
+Mhallamî
+Sheikhan Dohuk
+Shemdinani
+Shemdinanî
+Surchi
+Surchî
+Zakho Kurdish
+Southern Kurmanji
+Southern Kurmanjî
+Ashiti
+Ashitî
+Ashîtî
+Aşiti
+Aşitî
+Aşîtî
+Boti
+Botî
+Botani
+Botanî
+Bótánî
+Western Kurmanji
+Western Kurmanjî
+Northwest Kurmanji
+Northwest Kurmanjî
+Elbistan Kurmanji
+Elbistan Kurmanjî
+Sivas
+Southwest Kurmanji
+Southwest Kurmanjî
+Aleppo Kurmanji
+Aleppo Kurmanjî
+Rojavayi
+Rojavayî
+Kobani
+Kobanî
+Kobanki
+Kobankî
+Kobane
+Kobanê
+Shexi
+Shexî
+Surujki
+Surujkî
+Afrini
+Afrinî
+Afrînî
+Qamisloki
+Qamislokî
+Sherbi
+Sherbî
+Amudki
+Amudkî
+Deriki
+Derikî
+Derîkî
+Khorasani Kurmanji
+Khorasani Kurmanjî
+Urfa Kurmanji
+Urfa Kurmanjî
+Mihemedi
+Mihemedî
+Marashi
+Marashî
+Bahdini
+Bahdinî
+Bahdînî
+Badinani
+Badinanî
+Badînanî
+Kochgiri
+Kochgirî
+Kochgîrî
+Sarhadi
+Sarhadî
+Tori
+Torî
+Bekrani
+Bekranî
+Birjendi
+Birjendî
+Bîrjendî
+Ceziri
+Cezirî
+Cezîrî
+Jiwanshiri
+Jiwanshirî
+Jiwanshîrî
+Jîwanshîrî
+Qocani
+Qocanî
+Senjari
+Senjarî
+Judikani
+Judikanî
+Judîkanî
+Yuneki
+Yunekî
+Southern Kurdish
+Ilami
+Ilamî
+Îlami
+Îlamî
+Badre'i
+Badre'î
+Garrusi
+Garrusî
+Malekshahi
+Malekshahî
+Laki Southern Kurdish
+Kermanshahi
+Kermanshahî
+Kermansani
+Kermansanî
+Kermanşani
+Kermanşanî
+Peripheral Kermanshahic
+Kalhori-Sanjabi-Zangane
+Kalhori
+Kalhorî
+Kelhori
+Kelhorî
+Sanjabi
+Sanjabî
+Zangane
+Kolyai
+Kolyaî
+Luri
+Lurî
+Bayray
+Kurdi Xwarin
+Kurdî Xwarîn
+Pehlewani
+Pehlewanî
+Laki
+Lakî
+Leki
+Lekî
+Gorani
+Goranî
+Gurani
+Guranî
+Hawraman-I Luhon
+Hawraman-I Taxt
+Kakai
+Kakaî
+Kakeyi
+Kakeyî
+Nuclear Gurani
+Nuclear Guranî
+Gawhara
+Kandula
+Zardayana
+Shabak-Bajalani
+Shabak-Bajalanî
+Bajelani
+Bajelanî
+Shabaki
+Shabakî
+Chabak
+Sarli
+Sarlî
+Zaza
+Zazaki
+Zazakî
+Dimli
+Dimlî
+Dîmlî
+Dumbuli
+Dumbulî
+Hazzu
+Kori
+Korî
+Motki
+Motkî
+Sivereki
+Siverekî
+Sîverekî
+Kirmanijki
+Kirmanijkî
+Tunceli
+Tuncelî
+Varto
+Dersim
+Zengene
+Xerzi
+Xerzî
+Batman
+Xarput
+Sarbajeri
+Sarbajerî
+Sarbajêri
+Sarbajêrî
+Şarbajeri
+Şarbajerî
+Şarbajêrî
+Feyli
+Feylî
+Xaneqini
+Xaneqinî
+Xaneqînî
+Lori
+Lorî
+Kurdî
+Kurdiya jorîn
+Eastern Kurmanji
+Kirmancî
+Sine’i
+Kurdish Kurmanji
+Shabak
+Dimilî
+Southern Zaza
+Avromani
+Pehlewaní
+Hazo
+Kordi Kormanji
+Hawramani
+Kermanshani
+Gawrajuyi
+Maleksh ay
+Bajalani
+Bejwan
+Kakkai
+Zazaki, Southern
+Eastern Zazaki
+Maleksh ahi
+Lúr
+Ourami
+Kurdish, Southern
+Macho
+Hawrami
+Awroman
+Alaki
+Macho-Zwani
+Kurdy
+Zengana
+Kurmanji Kurdish
+Central Zazaki
+Kurdish, Central
+Kermancî
+Ardelani
+Kurdish, Northern
+Kurdî-Kurmancî
+Amadiye
+Khorasani
+Korkora
+Mokri
+Ezdiki
+Pijdari
+Kurdi
+Sarliya
+Red Kurmanji
+Kordi
+Hawraman i Luhon
+Sineyi
+Dumbeli
+Wawa
+Chichamachu
+Silivî
+Sina’i
+Sheikhan
+Zazaca
+Kirmanciya Jori
+Bewyani
+Bijari
+Hekari
+Hourami
+Awromani
+Zakho
+Howrami
+Badînî
+Shikakî
+Moti
+Hawraman i Taxt
+Behdînî
+Khorassani Kurmanji
+Hewrami
+Kurdmancî
+Bajoran
